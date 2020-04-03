@@ -1,2 +1,0 @@
-# MemoPad
-Created with CodeSandbox
